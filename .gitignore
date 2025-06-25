@@ -10,3 +10,4 @@ bookexchange_frontend/.env
 # macOS
 .DS_Store
 
+bookexchange_backend_local_backup/
