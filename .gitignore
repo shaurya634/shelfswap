@@ -4,8 +4,8 @@ bookexchange_backend/db.sqlite3
 bookexchange_backend/media/
 
 # Node
-bookexchange_frontend/node_modules/
-bookexchange_frontend/.env
+#bookexchange_frontend/node_modules/
+#bookexchange_frontend/.env
 
 # macOS
 .DS_Store
